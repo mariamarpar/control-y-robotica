@@ -1,0 +1,8 @@
+body {font-family: Arial, sans-serif; margin:20px; background:#f4f9f4; color:#333;}
+    h1{text-align:center; color:#2c6e49;}
+    .question{margin-bottom:15px; padding:10px; background:#fff; border-radius:8px;}
+    .options label{display:block; margin-left:15px;}
+    button{margin-top:20px; padding:10px 15px; font-size:16px; background:#2c6e49; color:#fff; border:none; border-radius:6px; cursor:pointer;}
+    #result{margin-top:20px; font-weight:bold; font-size:18px; text-align:center;}
+    .correct{color:green; font-weight:bold;}
+    .incorrect{color:red; font-weight:bold;}
